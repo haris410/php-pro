@@ -1,4 +1,4 @@
-5. Write a PHP script to find the factorial of a number. 
+<!-- 5. Write a PHP script to find the factorial of a number.  -->
 <?php
 $n = (int)readline("Enter a number to find Factorial:");
 $f=1;

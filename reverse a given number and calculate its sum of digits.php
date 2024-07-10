@@ -1,4 +1,4 @@
-6. Write a PHP script to reverse a given number and calculate its sum of digits.
+<!-- 6. Write a PHP script to reverse a given number and calculate its sum of digits. -->
 <?php
 $n = (int)readline("Enter a number:");
 $rev=0;

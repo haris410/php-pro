@@ -1,5 +1,5 @@
-13. Write a PHP script to implement form handling using post method. 
-HTML File
+<!-- 13. Write a PHP script to implement form handling using post method. 
+HTML File -->
 <html>
 <body>
 <form action="PostDemo.php" method="post">
@@ -9,7 +9,7 @@ Password	:<input type="password" name="pwd"><br>
 </form>
 </body>
 </html>
-PHP File
+<!-- PHP File -->
 <?php
 if ($_POST['uname']=="Frank" && $_POST['pwd']== "Welcome")
    echo "Login Successful";

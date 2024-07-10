@@ -1,5 +1,5 @@
-12. Write a PHP script to implement form handling using get method 
-HTML File
+<!-- 12. Write a PHP script to implement form handling using get method 
+HTML File -->
 <html>
 <body>
 <form action="GetDemo.php" method="get">
@@ -9,7 +9,7 @@ E-Mail	:<input type="text" name="email"><br>
 </form>
 </body>
 </html>
-PHP File
+<!-- PHP File -->
 <?php
 echo "Hi ",$_GET['name'], "<br>";
 echo "Your email address is:" , $_GET['email']; 

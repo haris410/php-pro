@@ -1,5 +1,5 @@
-20. Write a PHP program to upload a file.
-File.html
+<!-- 20. Write a PHP program to upload a file.
+File.html -->
 <html>
 <body>
 <form action="File.php" method="post" enctype="multipart/form-data">
@@ -9,7 +9,7 @@ File.html
 </body>
 </html>
 
-File.php
+<!-- File.php -->
 <?php  
 $name = $_FILES['fileToUpload']['name'];  
 $tmp_name = $_FILES['fileToUpload']['tmp_name'];   

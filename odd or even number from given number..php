@@ -1,4 +1,4 @@
-2.write a PHP script to find odd or even number from given number. 
+<!-- 2.write a PHP script to find odd or even number from given number.  -->
 <?php
 $no = (int)readline("Enter an Integer:");
 if ($no % 2 == 0) 

@@ -1,4 +1,4 @@
-10. Write a PHP program to insert new item in array on any position in PHP. 
+<!-- 10. Write a PHP program to insert new item in array on any position in PHP.  -->
 <?php
 $arr = array(1, 2, 3, 4, 5);
 echo "\nArray before inserting new element: ";

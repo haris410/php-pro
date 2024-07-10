@@ -1,4 +1,4 @@
-4.Write a PHP script to swap two numbers. 
+<!-- 4.Write a PHP script to swap two numbers.  -->
 <?php
 $a = (int)readline("Enter the first number:");
 $b = (int)readline("Enter the second number:");

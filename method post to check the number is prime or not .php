@@ -1,5 +1,5 @@
-14. Write a PHP script that receive form input by the method post to check the number is prime or not 
-HTML Code
+<!-- 14. Write a PHP script that receive form input by the method post to check the number is prime or not 
+HTML Code -->
 <html>
 <body>
 <form action="Prime.php" method="post">
@@ -8,7 +8,7 @@ Ener a Number to Check Prime:<input type="text" name="Prime"><br>
 </form>
 </body>
 </html>
-PHP Code
+<!-- PHP Code -->
 <?php
 $n=$_POST['Prime'];
 $flag=0;

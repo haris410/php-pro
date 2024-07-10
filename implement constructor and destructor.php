@@ -1,4 +1,4 @@
-11. Write a PHP script to implement constructor and destructor. 
+<!-- 11. Write a PHP script to implement constructor and destructor.  -->
 <?php
     class Person 
     {

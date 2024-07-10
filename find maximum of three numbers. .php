@@ -1,4 +1,4 @@
-3.Write a PHP script to find maximum of three numbers. 
+<!-- 3.Write a PHP script to find maximum of three numbers.  -->
 <?php
 $a=(int)readline("Enter the value of a: ");
 $b=(int)readline("Enter the value of b: ");

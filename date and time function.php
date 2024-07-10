@@ -1,4 +1,4 @@
-17. Write a PHP script to show the functionality of date and time function. 
+<!-- 17. Write a PHP script to show the functionality of date and time function.  -->
 <?php
   echo "Today's Date is :";
   echo date("d/m/Y");

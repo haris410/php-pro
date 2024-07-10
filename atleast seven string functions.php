@@ -1,4 +1,4 @@
-9. Write a PHP script to implement atleast seven string functions. 
+<!-- 9. Write a PHP script to implement atleast seven string functions.  -->
 <?php  
 $str=readline("Enter a String to convert to Lowercase: ");  
 echo "String with Lowercase: ", strtolower($str),"\n\n";  

@@ -1,4 +1,4 @@
-8. Write a PHP script to generate a Fibonacci series using Recursive function 
+<!-- 8. Write a PHP script to generate a Fibonacci series using Recursive function  -->
 <?php  
 $num = (int)readline("Enter the max term for Fibonacci series:"); 
 echo "Fibonacci series is: \n"; 

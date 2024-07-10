@@ -1,4 +1,4 @@
-7.Write a PHP script to check whether given number is palindrome or not. 
+<!-- 7.Write a PHP script to check whether given number is palindrome or not.  -->
 <?php
 $n = (int)readline("Enter a number:");
 $rev=0;
